@@ -14,6 +14,7 @@ The site should appeal to youngsters without pandering; while aiming at a younge
 The client has not supplied a logo because the museum committee cannot decide on a final design. You are free to create a placeholder logo for the client.
 
 User Stories
+
 The following user stories must be fulfilled in order to complete the project.
 A visitor can view a home page showing key information and impactful imagery.
 A visitor can view a contact page showing the museum's address, phone number, opening hours and contact form.
@@ -21,15 +22,22 @@ A visitor can view a contribution showing information on how to contribute to th
 A visitor can view an exhibitions showing upcoming events and available exhibitions.
 A visitor can view a privacy policy page showing the museum's privacy policy.
 A visitor can view a terms and conditions page showing the museum's terms and conditions.
- Views
+ 
+
+Views
+
 Based on the user stories above, the minimum views required to complete the project are:
 Home page view
 Contact page view
 Contribution page view
 Exhibitions page view
 Document page view
+
+
 Requirements
+
 Project images should be sized appropriately and optimised for web delivery.
+
 The project must be responsive on mobile, tablet and large screen devices.
 The project must be cross-browser compatible.
 The project must be accessible to a range of users including those with impairments or disabilities.
@@ -37,7 +45,11 @@ The project must be built using semantic HTML elements.
 The project must adhere to the CSS DRY principle.
 The project must be well tested before delivery.
 The project design language must appeal to the target audience.
+
+
 Limitations
+
+
 Please be aware of the following project limitations:
 Teachers are not able to provide direct code assistance on the project.
 You may discuss the project with your peers, but be wary of plagiarism rules.
